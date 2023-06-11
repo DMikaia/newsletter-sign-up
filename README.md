@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution](https://github.com/DMikaia/newsletter-sign-up)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site link](https://dm-newsletter.netlify.app/)
 
 ### Built with
 
